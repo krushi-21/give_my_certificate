@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">GiveMyCertificate</string>
+    <string name="facebook_app_id">315223170367945</string>
+    <string name="fb_login_protocol_scheme">fb315223170367945</string>
+</resources>
+
